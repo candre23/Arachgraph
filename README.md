@@ -1,5 +1,5 @@
 # Arachgraph
-Python application for generating spider graphs
+Python application for generating spider graphs.  Functionality should be self-explanatory.  For configuring factors, see example json.
 
 Install dependencies:
 ```
